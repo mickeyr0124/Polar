@@ -1,0 +1,199 @@
+[Root]
+Most Recent Package=PolarPumpV1.0.7
+
+
+[Package|PolarPumpV1.0.7|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\Package
+
+[Package|PolarPumpV1.0.7|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PolarPumpV1.0.7|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PolarPumpV1.0.7|Files Found]
+HEI_PAS.dll=C:\Users\MRosenbaum\Desktop\Polar Rundown\HEI_PAS.dll
+mesa.dll=C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\mesa.dll
+
+[Package|PolarPumpV1.0.7|Files Released]
+
+[Package|PolarPumpV1.0.7|Missing Dependency Information]
+C:\Windows\SysWOW64\cwinstr.ocx=
+C:\Users\MRosenbaum\Desktop\Polar Rundown\TCPIPLibrary.tlb=
+C:\Users\MRosenbaum\Desktop\PolarRundown org\InteropDBWithButtons.tlb=
+C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\MSO.DLL=
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE=
+C:\Program Files (x86)\Common Files\System\ado\msado25.tlb=
+C:\Windows\System32\comsvcs.dll=
+C:\Windows\System32\gpib-32.dll=
+
+[Package|PolarPumpV1.0.7|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\comdlg32.ocx=
+C:\Windows\SysWOW64\msstdfmt.dll=
+
+[Package|PolarPumpV1.0.7|Files Added]
+c:\users\mrosenbaum\desktop\polar rundown\polarrundown 1.0.7\eff.mdb=
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\NetUse.txt=
+
+[Package|PolarPumpV1.0.7|Files Removed]
+
+[Package|PolarPumpV1.0.7|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\gpib-32.dll=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\dao360.dll=Yes
+C:\Windows\System32\msjet40.dll=Yes
+C:\Windows\System32\msjter40.dll=Yes
+C:\Windows\System32\msjint40.dll=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\mswstr10.dll=Yes
+C:\Windows\System32\mswdat10.dll=Yes
+C:\Windows\System32\msrd2x40.dll=Yes
+C:\Windows\System32\msrd3x40.dll=Yes
+C:\Windows\System32\msrepl40.dll=Yes
+C:\Windows\System32\msjtes40.dll=Yes
+C:\Windows\System32\Vb5db.dll=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Program Files (x86)\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Windows\System32\comsvcs.dll=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado25.tlb=Yes
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE=Yes
+C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\MSO.DLL=Yes
+C:\Users\MRosenbaum\Desktop\PolarRundown org\InteropDBWithButtons.tlb=Yes
+C:\Users\MRosenbaum\Desktop\Polar Rundown\TCPIPLibrary.tlb=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\cwinstr.ocx=Yes
+C:\Windows\SysWOW64\MSDATGRD.OCX=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\MSDATLST.OCX=Yes
+C:\Windows\SysWOW64\cwui.ocx=Yes
+C:\Windows\SysWOW64\mfc42.dll=Yes
+C:\Windows\SysWOW64\msvcrt.dll=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Windows\SysWOW64\comdlg32.ocx=Yes
+C:\Windows\SysWOW64\MSFLXGRD.OCX=Yes
+C:\Windows\SysWOW64\MSHFLXGD.OCX=Yes
+C:\Windows\SysWOW64\RICHTX32.OCX=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\PolarRundown.exe=Yes
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\HEI_PAS.dll=Yes
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\Eff.mdb=Yes
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\mesa.dll=Yes
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\NetUse.txt=Yes
+
+[Package|PolarPumpV1.0.7|Configure Registry Files]
+Applicable=No
+
+[Package|PolarPumpV1.0.7|Configure Remote Servers]
+Applicable=No
+
+[Package|PolarPumpV1.0.7|Install Locations]
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\gpib-32.dll=$(AppPath)
+C:\Users\MRosenbaum\Desktop\Polar Rundown\HEI_PAS.dll=$(AppPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\dao360.dll=$(MSDAOPath)
+C:\Windows\System32\msjet40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjter40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjint40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswstr10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswdat10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrepl40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjtes40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\Vb5db.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Windows\System32\comsvcs.dll=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE=$(AppPath)
+C:\Program Files (x86)\Common Files\microsoft shared\OFFICE14\MSO.DLL=$(WinSysPath)
+C:\Users\MRosenbaum\Desktop\PolarRundown org\InteropDBWithButtons.tlb=$(WinSysPath)
+C:\Users\MRosenbaum\Desktop\Polar Rundown\TCPIPLibrary.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\cwinstr.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\cwui.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\mfc42.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msvcrt.dll=$(WinSysPath)
+C:\Users\MRosenbaum\Desktop\Polar Rundown\mesa.dll=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\comdlg32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSHFLXGD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\PolarRundown.exe=$(AppPath)
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\HEI_PAS.dll=$(AppPath)
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\Eff.mdb=$(AppPath)
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\mesa.dll=$(WinSysPath)
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\NetUse.txt=$(AppPath)
+
+[Package|PolarPumpV1.0.7|Configure Shared Files]
+Applicable=Yes
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7.exe=No
+C:\Windows\System32\gpib-32.dll=No
+C:\Users\MRosenbaum\Desktop\Polar Rundown\HEI_PAS.dll=No
+C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\PolarRundown.exe=No
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\HEI_PAS.dll=No
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\Eff.mdb=No
+C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\NetUse.txt=No
+
+[Package|PolarPumpV1.0.7|Distribution]
+Type=single
+Size=
+Title=PolarPumpData V1.0.7
+
+[Package|PolarPumpV1.0.7|Package]
+PackageFolder=C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\Package
+ProjectFolder=C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7
+ServerSideCab=
+File1=C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\Package\setup.exe
+File2=C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\Package\Setup.Lst
+File3=C:\Users\MRosenbaum\Desktop\Polar Rundown\PolarRundown 1.0.7\Package\PolarRundown.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|PolarPumpV1.0.7|IconGroups]
+Group0=PolarPumpData
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|PolarPumpV1.0.7|PolarPumpData]
+Icon1="PolarRundown 1.0.7.exe"
+Title1=PolarPumpData
+StartIn1=$(AppPath)
+Key1=Icon1

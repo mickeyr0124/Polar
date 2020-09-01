@@ -1,0 +1,13 @@
+frmPLCData = 200, 37, 1196, 603, C, 82, 92, 1237, 771, C
+VBIB32 = 0, 0, 0, 0, C
+AccessRoutines = 108, 28, 1104, 428, 
+PLCInterface = 220, 111, 1335, 439, 
+frmLogin = 0, 0, 0, 0, C, 208, 208, 1376, 756, C
+NIGLOBAL = 0, 0, 0, 0, C
+frmDiagram = 0, 0, 0, 0, C, 234, 234, 1402, 782, C
+frmCalibrate = 78, 78, 1074, 478, , 260, 260, 1428, 808, C
+frmSearch = 0, 0, 0, 0, C, 0, 0, 1168, 548, C
+EpicorRoutines = 0, 0, 0, 0, C
+GetUNC = 24, 147, 1293, 641, 
+MagtrolRoutinesProLogix = 0, 0, 0, 0, C
+frmAlert = 192, 153, 1368, 709, C, 130, 130, 1306, 686, C

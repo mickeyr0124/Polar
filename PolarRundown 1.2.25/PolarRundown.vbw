@@ -1,0 +1,16 @@
+vbwProtector = 50, 50, 773, 666, 
+vbwErrHandler = 0, 0, 0, 0, C
+vbwFrmErrHandler = 0, 0, 0, 0, C, 100, 100, 823, 716, C
+frmPLCData = 0, 0, 0, 0, C, 25, 25, 748, 641, C
+VBIB32 = 0, 0, 0, 0, C
+AccessRoutines = 0, 0, 0, 0, C
+PLCInterface = 75, 75, 798, 691, 
+frmLogin = 0, 0, 0, 0, C, 150, 150, 873, 766, C
+NIGLOBAL = 0, 0, 0, 0, C
+frmDiagram = 0, 0, 0, 0, C, 175, 175, 898, 791, C
+frmCalibrate = 0, 0, 0, 0, C, 200, 200, 923, 816, C
+frmSearch = 0, 0, 0, 0, C, 225, 225, 948, 841, C
+EpicorRoutines = 0, 0, 0, 0, C
+GetUNC = 0, 0, 0, 0, C
+MagtrolRoutinesProLogix = 0, 0, 0, 0, C
+frmAlert = 0, 0, 0, 0, C, 250, 250, 973, 866, C
